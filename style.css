@@ -1,0 +1,12 @@
+.imsize{
+    margin-left: 2px;;
+}
+#thead{
+    display: block;
+    background-color: aqua;
+}
+.imagesize{
+    height:100px;
+    width:200px;
+
+}

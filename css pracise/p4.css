@@ -1,0 +1,105 @@
+.navbar ul {
+    overflow: auto;
+    background-color: blueviolet;
+    /*we write overflow property because when we write float to child then it overflows parent so we have to give overflow property to parent*/
+
+}
+
+.navbar li {
+    float: left;
+    padding: 10px;
+    list-style: none;
+
+}
+
+.navbar ul a {
+    color: black;
+    text-decoration: none;
+}
+
+#search {
+    float: right;
+}
+
+.container {
+    display: flex;
+    
+    width: 100%;
+    
+    border: 2px solid black;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    
+    
+    
+
+}
+
+.sub1 {
+    margin: 2% 2%;
+    height:100px;
+    width: 25%;
+    height: 100px;
+    background-color: tomato;
+
+}
+
+.sub2 {
+    margin: 2% 2%;
+    height: 100px;
+
+    width: 25%;
+    background-color: tomato;
+}
+
+.sub3 {
+    margin: 2% 2%;
+    width: 25%;
+    height: 100px;
+    background-color: tomato;
+
+}
+
+.sub4 {
+    height: 100px;
+    margin: 2% 2%;
+    width: 25%;
+    background-color: tomato;
+
+}
+
+.sub5 {
+    margin: 2% 2%;
+    height: 100px;
+    width: 25%;
+    background-color: tomato;
+}
+
+.sub6 {
+    height: 100px;
+    margin: 2% 2%;
+    width: 25%;
+    background-color: tomato;
+}
+
+.sub7 {
+    height: 100px;
+    width: 25%;
+    margin: 2% 2%;
+    background-color: tomato;
+}
+
+.sub8 {
+    margin: 2% 2%;
+    height: 100px;
+    width: 25%;
+    background-color: tomato;
+}
+.sub9{
+    margin: 2% 2%;
+    height: 100px;
+    width: 25%;
+    background-color: tomato;
+
+}
